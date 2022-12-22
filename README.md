@@ -1,5 +1,5 @@
 # GCPL-evaluation
-Written in my master thesis and during my Ph.D., the code evaluates GCPL measurements while calculating important key performance parameters
+Written in my master thesis and during my Ph.D., the code evaluates GCPL measurements and calculates important battery key performance parameters like (capacity, voltage, and energy) retention and efficiency, as well as specific energy, C-Rate, specific power, areal energy density, areal power, and overvoltage.
 
 Author: Micha P. Fertig
 Text written: 01/27/22
